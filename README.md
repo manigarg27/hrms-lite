@@ -24,9 +24,9 @@ This project was built as a full-stack assignment to demonstrate end-to-end deve
 
 | Layer       | Technology           |
 | ----------- | ------------------ |
-| Frontend    | React, Vite, Axios  |
+| Frontend    | React |
 | Backend     | FastAPI, Python     |
-| Database    | SQLite (default)    |
+| Database    | PostgreSQL   |
 | Deployment  | Vercel (Frontend), Render (Backend) |
 
 ---
